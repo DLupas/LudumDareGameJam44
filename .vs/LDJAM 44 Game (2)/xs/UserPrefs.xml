@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{5780BD69-28FD-B13C-1BA8-0B1144DDDDA2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Code/Offer.cs">
+    <Files>
+      <File FileName="Assets/Code/CharacterBio.cs" Line="11" Column="9" />
+      <File FileName="Assets/Code/Offer.cs" Line="194" Column="197" />
+      <File FileName="Assets/Code/EventManager.cs" Line="31" Column="54" />
+      <File FileName="Assets/Code/TextManager.cs" Line="84" Column="1" />
+      <File FileName="Assets/Code/DevilBank.cs" Line="22" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LDJAM 44 Game (2)" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Code" expanded="True">
+                <Node name="Offer.cs" selected="True" />
+              </Node>
+              <Node name="TextMesh Pro" expanded="True">
+                <Node name="Examples &amp; Extras" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="LDJAM 44 Game (2)" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9d7cfb8d-1183-4ba1-a7ea-d9ccca4f15c6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
